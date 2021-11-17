@@ -1,0 +1,36 @@
+.home {
+    color: #950202;
+    padding: 50px;
+}
+
+.home > .user {
+    color: #ddba97;
+}
+
+input {
+    background: #ddba97;
+    height: 25px;
+    border-radius: 30px;
+    padding: 0 15px;
+    outline: none;
+    border: transparent;
+}
+
+input:focus {
+    outline: none;
+}
+
+input:active {
+    outline: none;
+}
+
+button {
+    height: 25px;
+    border-radius: 30px;
+    border: transparent;
+    background: #950202;
+    margin-left: 20px;
+    color: white;
+}
+
+
